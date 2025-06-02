@@ -33,4 +33,4 @@ jobs:
     - name: Start the bot
       env:
         PORT: 2024
-      run: npm start
+      run: node main.js
